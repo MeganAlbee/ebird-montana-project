@@ -1,5 +1,5 @@
 
-<div align="center"><img src="img/lark.gif"></img></div>
+<div align="center"><img src="img/lark.gif" width="400" height="275" ></img></div>
 <h1 align="center">eBird API: Montana's Top Birds</h1>
 <p align="center"><strong>Aquiring and Analzing a Dataset. </strong>
 <br>The University of Montana, Master of Science in Business Analytics Class Assignment.  </p>
@@ -15,10 +15,9 @@ The requirements are deciding a topic of interest, acquiring the data, and analy
 <h2>Key learnings</h2>
 
 1. Utilizing API Wrappers that are common and well-documented help create efficient work. 
-<br> 2. Combining multiple datasets helps develop impactful stories to bring life to findings.
-</br>
+2. Combining multiple datasets helps develop impactful stories to bring life to findings.
 3. eBird is a citizen science based app and has limitations for the amount of data that can be found in one state. 
-</br> 
+
 
 
 <h2>Project status</h2>
@@ -27,14 +26,12 @@ This project is finished for now. I would like to organize this data into a pand
 <h2>Credits</h2>
 
 - ProjectBlabber/ebird-api
-<br>
 - eBird
-<br>
 - adrianmrit/flickrdatasets: FlickerAPI
-<br>
+- Western Meadowlark Artwork : Shalmons
 
 
-<div align="center"><img src="img/ebirdlog.png"><img src="img/lablog.png">
+<div align="center"><img src="img/ebirdlog.png"width="400" height="200" ><img src="img/lablog.png" width="400" height="100" >
 </div>
 
 <h2>Copyright</h2>
