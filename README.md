@@ -1,5 +1,5 @@
 
-<div align="center"><img src="/Users/meganalbee/Desktop/Text Mining/ebird/ADA-birds/img/lark.gif"></img></div>
+<div align="center"><img src="img/lark.gif"></img></div>
 <h1 align="center">eBird API: Montana's Top Birds</h1>
 <p align="center"><strong>Aquiring and Analzing a Dataset. </strong>
 <br>The University of Montana, Master of Science in Business Analytics Class Assignment.  </p>
@@ -34,7 +34,7 @@ This project is finished for now. I would like to organize this data into a pand
 <br>
 
 
-<div align="center"><img src="/Users/meganalbee/Desktop/Text Mining/ebird/ADA-birds/img/ebirdlog.png"><img src="/Users/meganalbee/Desktop/Text Mining/ebird/ADA-birds/img/lablog.png">
+<div align="center"><img src="img/ebirdlog.png"><img src="img/lablog.png">
 </div>
 
 <h2>Copyright</h2>
